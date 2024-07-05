@@ -1,1 +1,0 @@
-C:\Users\Najib\projet\Chess\ChessApp\ChessApp\ChessMAUI\ChessMAUI.csproj;x64
