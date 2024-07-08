@@ -6,4 +6,9 @@ public partial class Credits : ContentPage
 	{
 		InitializeComponent();
 	}
+
+    private void Home_Clicked(object sender, EventArgs e)
+    {
+        Shell.Current.GoToAsync("//Home");
+    }
 }

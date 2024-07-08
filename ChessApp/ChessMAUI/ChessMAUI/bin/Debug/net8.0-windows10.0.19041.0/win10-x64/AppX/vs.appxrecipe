@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-07-08T08:58:45.890</Modified>
+      <Modified>2024-07-08T21:44:00.218</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-07-08T08:58:45.737</Modified>
+      <Modified>2024-07-08T21:24:03.656</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMAUI.runtimeconfig.json">
       <PackagePath>ChessMAUI.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMAUI.dll">
       <PackagePath>ChessMAUI.dll</PackagePath>
-      <Modified>2024-07-08T08:58:44.677</Modified>
+      <Modified>2024-07-08T21:43:59.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ChessMAUI.exe</PackagePath>
-      <Modified>2024-07-08T08:58:44.723</Modified>
+      <Modified>2024-07-08T21:43:59.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -84,203 +84,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-07-08T08:41:49.495</Modified>
+      <Modified>2024-07-08T21:24:50.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.485</Modified>
+      <Modified>2024-07-08T21:24:50.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.485</Modified>
+      <Modified>2024-07-08T21:24:50.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.485</Modified>
+      <Modified>2024-07-08T21:24:50.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.485</Modified>
+      <Modified>2024-07-08T21:24:50.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.485</Modified>
+      <Modified>2024-07-08T21:24:50.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.492</Modified>
+      <Modified>2024-07-08T21:24:50.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.491</Modified>
+      <Modified>2024-07-08T21:24:50.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.491</Modified>
+      <Modified>2024-07-08T21:24:50.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.491</Modified>
+      <Modified>2024-07-08T21:24:50.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.491</Modified>
+      <Modified>2024-07-08T21:24:50.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.493</Modified>
+      <Modified>2024-07-08T21:24:50.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.492</Modified>
+      <Modified>2024-07-08T21:24:50.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.492</Modified>
+      <Modified>2024-07-08T21:24:50.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.492</Modified>
+      <Modified>2024-07-08T21:24:50.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.492</Modified>
+      <Modified>2024-07-08T21:24:50.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.495</Modified>
+      <Modified>2024-07-08T21:24:50.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.495</Modified>
+      <Modified>2024-07-08T21:24:50.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.494</Modified>
+      <Modified>2024-07-08T21:24:50.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.494</Modified>
+      <Modified>2024-07-08T21:24:50.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.494</Modified>
+      <Modified>2024-07-08T21:24:50.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.494</Modified>
+      <Modified>2024-07-08T21:24:50.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.494</Modified>
+      <Modified>2024-07-08T21:24:50.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.493</Modified>
+      <Modified>2024-07-08T21:24:50.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.493</Modified>
+      <Modified>2024-07-08T21:24:50.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.493</Modified>
+      <Modified>2024-07-08T21:24:50.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.488</Modified>
+      <Modified>2024-07-08T21:24:50.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.488</Modified>
+      <Modified>2024-07-08T21:24:50.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.487</Modified>
+      <Modified>2024-07-08T21:24:50.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.487</Modified>
+      <Modified>2024-07-08T21:24:50.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.487</Modified>
+      <Modified>2024-07-08T21:24:50.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.489</Modified>
+      <Modified>2024-07-08T21:24:50.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.489</Modified>
+      <Modified>2024-07-08T21:24:50.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.489</Modified>
+      <Modified>2024-07-08T21:24:50.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.488</Modified>
+      <Modified>2024-07-08T21:24:50.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.488</Modified>
+      <Modified>2024-07-08T21:24:50.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.490</Modified>
+      <Modified>2024-07-08T21:24:50.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.490</Modified>
+      <Modified>2024-07-08T21:24:50.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.490</Modified>
+      <Modified>2024-07-08T21:24:50.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.490</Modified>
+      <Modified>2024-07-08T21:24:50.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.489</Modified>
+      <Modified>2024-07-08T21:24:50.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.487</Modified>
+      <Modified>2024-07-08T21:24:50.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.486</Modified>
+      <Modified>2024-07-08T21:24:50.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.486</Modified>
+      <Modified>2024-07-08T21:24:50.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.486</Modified>
+      <Modified>2024-07-08T21:24:50.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.486</Modified>
+      <Modified>2024-07-08T21:24:50.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\background.scale-100.png">
       <PackagePath>background.scale-100.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.478</Modified>
+      <Modified>2024-07-08T21:24:50.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chess.scale-100.png">
       <PackagePath>chess.scale-100.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.482</Modified>
+      <Modified>2024-07-08T21:24:50.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png">
+      <PackagePath>home.scale-100.png</PackagePath>
+      <Modified>2024-07-08T21:24:50.669</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\reglage.scale-100.png">
       <PackagePath>reglage.scale-100.png</PackagePath>
-      <Modified>2024-07-08T08:41:49.484</Modified>
+      <Modified>2024-07-08T21:24:50.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMAUI.deps.json">
       <PackagePath>ChessMAUI.deps.json</PackagePath>
-      <Modified>2024-07-08T08:58:45.554</Modified>
+      <Modified>2024-07-08T09:53:56.778</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

@@ -3,10 +3,66 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ChessMAUI.Views.Credits"
              Title="Credits">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+    <AbsoluteLayout>
+        <Image
+        Source="background.png"  
+        Aspect="AspectFill"
+        AbsoluteLayout.LayoutBounds="0,0,1,1"
+        AbsoluteLayout.LayoutFlags="All" />
+
+        <VerticalStackLayout AbsoluteLayout.LayoutBounds="0,0,1,1"
+                             AbsoluteLayout.LayoutFlags="All">
+            <StackLayout
+                Padding="30, 30"
+                Spacing="25">
+
+              
+                <Grid
+                    RowDefinitions="auto,auto,auto,auto,auto,auto"
+                    ColumnDefinitions="50*,50*,50*"
+                    RowSpacing="50">
+                    <ImageButton
+                        Source="home.png"
+                        Grid.Column="0"
+                        Grid.Row="0"
+                        WidthRequest="75"
+                        HeightRequest="75"
+                        Clicked="Home_Clicked"
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center"
+                        BackgroundColor="Transparent"/>
+                    <Label Text="Creators of the game : "
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center"
+                           Grid.Row="0"
+                           Grid.Column="1"
+                           FontSize="40"/>
+                    <Label Text="TheBigN"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center"
+                           Grid.Row="1"
+                           Grid.Column="1"
+                           FontSize="30"/>
+                    <Label Text="Music used :"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center"
+                           Grid.Row="2"
+                           Grid.Column="1"
+                           FontSize="35"/>
+                    <Label Text="Communist Anthem"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center"
+                           Grid.Row="3"
+                           Grid.Column="1"
+                           FontSize="20"/>
+                    <Label Text="Thanks for playing Chess Ultimate !"
+                           VerticalOptions="Center"
+                           HorizontalOptions="Center"
+                           Grid.Row="4"
+                           Grid.Column="1"
+                           FontSize="50"/>
+                </Grid>
+            </StackLayout>
+        </VerticalStackLayout>
+    </AbsoluteLayout>
 </ContentPage>

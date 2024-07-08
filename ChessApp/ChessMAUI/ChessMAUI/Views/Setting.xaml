@@ -3,10 +3,88 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ChessMAUI.Views.Setting"
              Title="Setting">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+    <AbsoluteLayout>
+        <Image
+            Source="background.png"  
+            Aspect="AspectFill"
+            AbsoluteLayout.LayoutBounds="0,0,1,1"
+            AbsoluteLayout.LayoutFlags="All" />
+
+        <VerticalStackLayout AbsoluteLayout.LayoutBounds="0,0,1,1"
+                             AbsoluteLayout.LayoutFlags="All">
+
+          
+
+            <Grid
+                ColumnDefinitions="33*,33*,33*"
+                RowDefinitions="20*,20*,20*,20*,20*,20*,20*,20*"
+                RowSpacing="20">
+
+                <Switch
+                    HorizontalOptions="End"
+                    VerticalOptions="Center"
+                    Grid.Column="0"
+                    Grid.Row="0"                    
+                    />
+                <Label
+                    Text="Theme"
+                    VerticalOptions="Center"
+                    Grid.Column="1"
+                    Grid.Row="0"
+                    Style="{StaticResource TextOtherUSe}"/>
+
+                <Switch
+                    HorizontalOptions="End"
+                    VerticalOptions="Center"
+                    Grid.Column="0"
+                    Grid.Row="1"/>
+                <Label
+                    Text="ColorBlind Theme"
+                    VerticalOptions="Center"
+                    Grid.Column="1"
+                    Grid.Row="1"
+                    Style="{StaticResource TextOtherUSe}"/>
+
+                <CheckBox
+                    Grid.Column="1"
+                    Grid.Row="2"
+                    HorizontalOptions="Start"/>
+                <Label
+                    Text="Clear cache"
+                    Grid.Column="1"
+                    Grid.Row="2"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    Style="{StaticResource TextOtherUSe}"/>
+
+                <Slider
+                    Grid.Column="1"
+                    Grid.Row="4"/>
+                <Label
+                    Text="Music"
+                    HorizontalOptions="Center"
+                    Grid.Column="1"
+                    Grid.Row="3"
+                    Style="{StaticResource TextOtherUSe}"/>
+
+                <Slider
+                    Grid.Column="1"
+                    Grid.Row="6"/>
+                <Label
+                    Text="Son"
+                    HorizontalOptions="Center"
+                    Grid.Column="1"
+                    Grid.Row="5"
+                    Style="{StaticResource TextOtherUSe}"/>
+
+                <Button
+                    Text="Save and Exit"
+                    Grid.Column="1"
+                    Grid.Row="7"
+                    Clicked="Home_Clicked"/>
+            </Grid>
+
+
+        </VerticalStackLayout>
+    </AbsoluteLayout>
 </ContentPage>

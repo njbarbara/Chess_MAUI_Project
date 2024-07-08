@@ -62,6 +62,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Compile Update="Views\PlayerSelection.xaml.cs">
+	    <DependentUpon>PlayerSelection.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
 	  <MauiXaml Update="Views\Credits.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
