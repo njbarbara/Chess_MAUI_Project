@@ -46,6 +46,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = ChessMAUI.Resources.Styles
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
+[C:/Users/Najib/projet/Chess/ChessApp/ChessMAUI/ChessMAUI/Views/Credits.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChessMAUI.Views.Credits.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Credits.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Credits.xaml
+
 [C:/Users/Najib/projet/Chess/ChessApp/ChessMAUI/ChessMAUI/Views/GameBoard.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ChessMAUI.Views.GameBoard.xaml
@@ -57,3 +63,33 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ChessMAUI.Views.Home.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\Home.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Home.xaml
+
+[C:/Users/Najib/projet/Chess/ChessApp/ChessMAUI/ChessMAUI/Views/PlayerCreation.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChessMAUI.Views.PlayerCreation.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PlayerCreation.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PlayerCreation.xaml
+
+[C:/Users/Najib/projet/Chess/ChessApp/ChessMAUI/ChessMAUI/Views/PlayerSelection.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChessMAUI.Views.PlayerSelection.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PlayerSelection.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PlayerSelection.xaml
+
+[C:/Users/Najib/projet/Chess/ChessApp/ChessMAUI/ChessMAUI/Views/Preselection.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChessMAUI.Views.Preselection.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Preselection.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Preselection.xaml
+
+[C:/Users/Najib/projet/Chess/ChessApp/ChessMAUI/ChessMAUI/Views/ScoreBoard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChessMAUI.Views.ScoreBoard.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ScoreBoard.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ScoreBoard.xaml
+
+[C:/Users/Najib/projet/Chess/ChessApp/ChessMAUI/ChessMAUI/Views/Setting.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChessMAUI.Views.Setting.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Setting.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Setting.xaml

@@ -15,4 +15,28 @@
         Title="Game"
         ContentTemplate="{DataTemplate views:GameBoard}"
         Route="GamePage" />
+    <ShellContent
+        Title="Credits"
+        ContentTemplate="{DataTemplate views:Credits}"
+        Route="Credits" />
+    <ShellContent
+        Title="PlayerCreation"
+        ContentTemplate="{DataTemplate views:PlayerCreation}"
+        Route="PlayerCreation" />
+    <ShellContent
+        Title="PlayerSelection"
+        ContentTemplate="{DataTemplate views:PlayerSelection}"
+        Route="PlayerSelection" />
+    <ShellContent
+        Title="Preselection"
+        ContentTemplate="{DataTemplate views:Preselection}"
+        Route="Preselection" />
+    <ShellContent
+        Title="ScoreBoard"
+        ContentTemplate="{DataTemplate views:ScoreBoard}"
+        Route="ScoreBoard" />
+    <ShellContent
+        Title="Setting"
+        ContentTemplate="{DataTemplate views:Setting}"
+        Route="Setting" />
 </Shell>
