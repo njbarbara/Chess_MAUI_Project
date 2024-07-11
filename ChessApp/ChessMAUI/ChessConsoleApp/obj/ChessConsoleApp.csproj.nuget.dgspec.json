@@ -53,6 +53,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "CommunityToolkit.Maui.MediaElement": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Plugin.Maui.Audio": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -118,6 +128,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "CommunityToolkit.Maui.MediaElement": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Plugin.Maui.Audio": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Xamarin.CommunityToolkit": {
+              "target": "Package",
+              "version": "[2.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

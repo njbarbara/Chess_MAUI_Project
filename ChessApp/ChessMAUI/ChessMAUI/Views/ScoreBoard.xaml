@@ -3,10 +3,94 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ChessMAUI.Views.ScoreBoard"
              Title="ScoreBoard">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+    <AbsoluteLayout>
+
+        <BoxView
+        Color="#FF5733"  
+        AbsoluteLayout.LayoutBounds="0,0,1,1"
+        AbsoluteLayout.LayoutFlags="All" />
+        <ScrollView AbsoluteLayout.LayoutBounds="0,0,1,1"
+                    AbsoluteLayout.LayoutFlags="All">
+            <StackLayout
+                Padding="30, 30"
+                Spacing="25">
+                <Grid
+                ColumnDefinitions="80*,80*,80*"
+                RowDefinitions="auto,auto,auto,auto,auto,auto"
+                RowSpacing="50">
+
+
+                    <ImageButton
+                        Source="home.png"
+                        Grid.Column="0"
+                        Grid.Row="0"
+                        WidthRequest="75"
+                        HeightRequest="75"
+                        Clicked="Home_Clicked"
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center"
+                        BackgroundColor="Transparent"/>
+
+                    <Label
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center"
+                        Grid.Column="1"
+                        Grid.Row="0"
+                        Text="Score Board"
+                        FontSize="40"/>
+                    <Label
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center"
+                        Grid.Column="0"
+                        Grid.Row="1"
+                        Text="Player1"
+                        FontSize="30"/>
+                    <Label
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center"
+                        Grid.Column="1"
+                        Grid.Row="1"
+                        Text="VS"
+                        FontSize="30"/>
+                    <Label
+                        HorizontalOptions="Center"
+                        VerticalOptions="Center"
+                        Grid.Column="2"
+                        Grid.Row="1"
+                        Text="Player2"
+                        FontSize="30"/>
+                    <Image
+                        Source="crown.png"
+                        HorizontalOptions="End"
+                        WidthRequest="75"
+                        HeightRequest="75"
+                        Grid.Column="0"
+                        Grid.Row="2"
+                        BackgroundColor="Transparent"
+                        />
+                    <Label 
+                        Grid.Column="0"
+                        Grid.Row="2"
+                       
+                        Margin="50"
+                        HorizontalOptions="Center"
+                        Text="Najib"
+                        FontSize="20"/>
+                    <Label 
+                        Grid.Column="2"
+                        Grid.Row="2"
+                        Margin="50"
+                        HorizontalOptions="Center"
+                        Text="The world"
+                        FontSize="20"/>
+
+
+
+                </Grid>
+            </StackLayout>
+
+
+        </ScrollView>
+
+    </AbsoluteLayout>
 </ContentPage>

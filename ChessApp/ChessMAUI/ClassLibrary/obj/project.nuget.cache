@@ -1,8 +1,54 @@
 {
   "version": 2,
-  "dgSpecHash": "OsKLJBPTbHU=",
+  "dgSpecHash": "c+5aNkqMw1Y=",
   "success": true,
   "projectFilePath": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\ClassLibrary.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\Najib\\.nuget\\packages\\communitytoolkit.maui.mediaelement\\4.0.1\\communitytoolkit.maui.mediaelement.4.0.1.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.maui.controls\\8.0.21\\microsoft.maui.controls.8.0.21.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.21\\microsoft.maui.controls.build.tasks.8.0.21.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.maui.controls.compatibility\\8.0.21\\microsoft.maui.controls.compatibility.8.0.21.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.maui.controls.core\\8.0.21\\microsoft.maui.controls.core.8.0.21.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.maui.controls.xaml\\8.0.21\\microsoft.maui.controls.xaml.8.0.21.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.maui.core\\8.0.21\\microsoft.maui.core.8.0.21.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.maui.essentials\\8.0.21\\microsoft.maui.essentials.8.0.21.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.maui.graphics\\8.0.21\\microsoft.maui.graphics.8.0.21.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.21\\microsoft.maui.resizetizer.8.0.21.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\opentk\\3.0.1\\opentk.3.0.1.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\opentk.glcontrol\\3.0.1\\opentk.glcontrol.3.0.1.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\plugin.maui.audio\\3.0.0\\plugin.maui.audio.3.0.0.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\xamarin.communitytoolkit\\2.0.6\\xamarin.communitytoolkit.2.0.6.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\xamarin.forms\\5.0.0.2291\\xamarin.forms.5.0.0.2291.nupkg.sha512",
+    "C:\\Users\\Najib\\.nuget\\packages\\xamarin.forms.platform.wpf\\5.0.0.2291\\xamarin.forms.platform.wpf.5.0.0.2291.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'OpenTK 3.0.1' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' au lieu du framework cible du projet 'net8.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'OpenTK.GLControl 3.0.1' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' au lieu du framework cible du projet 'net8.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "OpenTK.GLControl",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

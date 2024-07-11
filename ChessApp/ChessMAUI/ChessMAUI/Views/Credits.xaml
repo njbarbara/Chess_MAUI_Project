@@ -4,11 +4,10 @@
              x:Class="ChessMAUI.Views.Credits"
              Title="Credits">
     <AbsoluteLayout>
-        <Image
-        Source="background.png"  
-        Aspect="AspectFill"
-        AbsoluteLayout.LayoutBounds="0,0,1,1"
-        AbsoluteLayout.LayoutFlags="All" />
+        <BoxView
+            Color="#FF5733"  
+            AbsoluteLayout.LayoutBounds="0,0,1,1"
+            AbsoluteLayout.LayoutFlags="All" />
 
         <VerticalStackLayout AbsoluteLayout.LayoutBounds="0,0,1,1"
                              AbsoluteLayout.LayoutFlags="All">
@@ -60,7 +59,8 @@
                            HorizontalOptions="Center"
                            Grid.Row="4"
                            Grid.Column="1"
-                           FontSize="50"/>
+                           FontSize="50"
+                           FontAttributes="Italic"/>
                 </Grid>
             </StackLayout>
         </VerticalStackLayout>

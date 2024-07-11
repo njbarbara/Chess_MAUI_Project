@@ -48,6 +48,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = ChessMAUI.Views.Credits.xa
 build_metadata.AdditionalFiles.TargetPath = Views\Credits.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\Credits.xaml
 
+[C:/Users/Najib/projet/Chess/ChessApp/ChessMAUI/ChessMAUI/Views/Essai.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ChessMAUI.Views.Essai.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Essai.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Essai.xaml
+
 [C:/Users/Najib/projet/Chess/ChessApp/ChessMAUI/ChessMAUI/Views/GameBoard.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ChessMAUI.Views.GameBoard.xaml

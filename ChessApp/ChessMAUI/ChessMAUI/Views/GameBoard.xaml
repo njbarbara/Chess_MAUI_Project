@@ -3,10 +3,82 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ChessMAUI.Views.GameBoard"
              Title="GameBoard">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+    <AbsoluteLayout>
+        
+        <BoxView
+            Color="#FF5733"  
+            AbsoluteLayout.LayoutBounds="0,0,1,1"
+            AbsoluteLayout.LayoutFlags="All" />
+        <ScrollView AbsoluteLayout.LayoutBounds="0,0,1,1"
+                    AbsoluteLayout.LayoutFlags="All">
+
+            <Grid
+                    ColumnDefinitions="80*,80*,80*"
+                    RowDefinitions="80*,80*,80*,80*,80*"
+                    RowSpacing="50">
+                <ImageButton
+                    Source="home.png"
+                    Grid.Column="0"
+                    Grid.Row="0"
+                    WidthRequest="75"
+                    HeightRequest="75"
+                    Clicked="Home_Clicked"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    BackgroundColor="Transparent"/>
+                <Image
+                    x:Name="LogoImage"
+                    Grid.Column="1"
+                    Grid.Row="0"
+                    WidthRequest="350"
+                    HeightRequest="300"
+                    Source="chess.png"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center" />
+                <Label
+                    HorizontalOptions="Start"
+                    VerticalOptions="Center"
+                    Grid.Column="1"
+                    Grid.Row="1"
+                    Text="Player1"
+                    FontSize="20"
+                    />
+                    <Label
+                    HorizontalOptions="End"
+                    VerticalOptions="Center"
+                    Grid.Column="1"
+                    Grid.Row="1"
+                    Text="Pièces capturés"
+                    FontSize="20"
+                    />
+                    <Label
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    Grid.Column="1"
+                    Grid.Row="2"
+                    Text="Plateau"
+                    FontSize="40"
+                    />
+                    <Label
+                    HorizontalOptions="Start"
+                    VerticalOptions="Center"
+                    Grid.Column="1"
+                    Grid.Row="3"
+                    Text="Player1"
+                    FontSize="20"
+                    />
+                    <Label
+                    HorizontalOptions="End"
+                    VerticalOptions="Center"
+                    Grid.Column="1"
+                    Grid.Row="3"
+                    Text="Pièces capturés"
+                    FontSize="20"
+                    />
+                </Grid>
+
+        </ScrollView>
+
+    </AbsoluteLayout>
+
 </ContentPage>

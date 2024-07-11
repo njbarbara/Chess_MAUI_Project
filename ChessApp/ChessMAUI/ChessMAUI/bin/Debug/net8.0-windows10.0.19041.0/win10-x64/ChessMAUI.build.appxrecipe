@@ -40,6 +40,18 @@
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\Resources\Raw\EineKleine.mp3">
+      <PackagePath>EineKleine.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\Resources\Raw\move-self.mp3">
+      <PackagePath>move-self.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\Resources\Video\chessbackground.mp4">
+      <PackagePath>Resources\Video\chessbackground.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\Resources\Video\home.gif">
+      <PackagePath>Resources\Video\home.gif</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -205,11 +217,20 @@
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chess.scale-100.png">
       <PackagePath>chess.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chessbackground.scale-100.gif">
+      <PackagePath>chessbackground.scale-100.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\crown.scale-100.png">
+      <PackagePath>crown.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png">
       <PackagePath>home.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\reglage.scale-100.png">
       <PackagePath>reglage.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\roue.scale-100.png">
+      <PackagePath>roue.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\projet\Chess\ChessApp\ChessMAUI\ChessMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ChessMAUI.deps.json">
       <PackagePath>ChessMAUI.deps.json</PackagePath>
@@ -219,6 +240,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Najib\.nuget\packages\communitytoolkit.maui\9.0.2\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.dll">
+      <PackagePath>CommunityToolkit.Maui.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Najib\.nuget\packages\communitytoolkit.maui.core\9.0.2\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.Core.dll">
+      <PackagePath>CommunityToolkit.Maui.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Najib\.nuget\packages\communitytoolkit.maui.mediaelement\4.0.1\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.MediaElement.dll">
+      <PackagePath>CommunityToolkit.Maui.MediaElement.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -315,6 +345,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Najib\.nuget\packages\plugin.maui.audio\3.0.0\lib\net8.0-windows10.0.19041\Plugin.Maui.Audio.dll">
+      <PackagePath>Plugin.Maui.Audio.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Najib\.nuget\packages\system.speech\8.0.0\runtimes\win\lib\net8.0\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Najib\.nuget\packages\microsoft.maui.controls.core\8.0.40\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>

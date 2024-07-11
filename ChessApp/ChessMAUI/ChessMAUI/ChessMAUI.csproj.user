@@ -9,6 +9,9 @@
     <MauiXaml Update="Views\Credits.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Views\Essai.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="Views\GameBoard.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

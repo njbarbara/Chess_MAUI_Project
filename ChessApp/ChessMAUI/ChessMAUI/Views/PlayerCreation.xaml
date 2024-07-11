@@ -3,7 +3,68 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ChessMAUI.Views.PlayerCreation"
              Title="PlayerCreation">
-    <VerticalStackLayout>
-        
-    </VerticalStackLayout>
+    <AbsoluteLayout>
+        <BoxView
+            Color="#FF5733"  
+            AbsoluteLayout.LayoutBounds="0,0,1,1"
+            AbsoluteLayout.LayoutFlags="All" />
+
+        <VerticalStackLayout
+            Padding="30, 30"
+            Spacing="25"
+            AbsoluteLayout.LayoutBounds="0,0,1,1"
+            AbsoluteLayout.LayoutFlags="All">
+                <Grid
+                    RowDefinitions="auto,auto,auto,auto,auto,auto"
+                    ColumnDefinitions="50*,50*,50*"
+                    RowSpacing="50">
+
+                <ImageButton
+                    Source="home.png"
+                    Grid.Column="0"
+                    Grid.Row="0"
+                    WidthRequest="75"
+                    HeightRequest="75"
+                    Clicked="Home_Clicked"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    BackgroundColor="Transparent"/>
+                <Label
+                        Grid.Column="1"
+                        Grid.Row="0"
+                        Text="Create your players !"
+                        HorizontalOptions="Center"
+                        FontSize="50"
+                        FontAttributes="Italic"/>
+
+                <Entry x:Name="Entry_name1"
+                   
+                       Placeholder="Entrez le nom d'un joueur"
+                       Completed="OnEntryCompleted1"
+                       VerticalOptions="FillAndExpand" 
+                       HorizontalOptions="FillAndExpand"
+                       Grid.Column="1"
+                       Grid.Row="1"
+                       Margin="10"/>
+
+                <Entry x:Name="Entry_name2"
+                       Placeholder="Entrez le nom d'un joueur"
+                       Grid.Column="1"
+                       Grid.Row="2"
+                       VerticalOptions="FillAndExpand" 
+                       HorizontalOptions="FillAndExpand"
+                       Margin="10"
+                       Completed="OnEntryCompleted2" />
+
+                <Button
+                        Text="Start the game"
+                        VerticalOptions="FillAndExpand"
+                        HorizontalOptions="FillAndExpand"
+                        Grid.Column="1"
+                        Grid.Row="3"
+                        Margin="10"
+                        Clicked="StartGame"/>
+                </Grid>
+            </VerticalStackLayout>
+            </AbsoluteLayout>
 </ContentPage>

@@ -10,11 +10,11 @@
     <ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate views:Home}"
-        Route="HomePage" />
+        Route="Home" />
     <ShellContent
         Title="Game"
         ContentTemplate="{DataTemplate views:GameBoard}"
-        Route="GamePage" />
+        Route="Game" />
     <ShellContent
         Title="Credits"
         ContentTemplate="{DataTemplate views:Credits}"
@@ -39,4 +39,8 @@
         Title="Setting"
         ContentTemplate="{DataTemplate views:Setting}"
         Route="Setting" />
+    <ShellContent
+        Title="Essai"
+        ContentTemplate="{DataTemplate views:Essai}"
+        Route="Essai" />
 </Shell>
