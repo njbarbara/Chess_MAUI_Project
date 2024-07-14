@@ -6,4 +6,13 @@ public partial class PlayerSelection : ContentPage
 	{
 		InitializeComponent();
 	}
+
+	public void Button_GameSelection(object sender, EventArgs e)
+	{
+        Shell.Current.GoToAsync("//Game");
+    }
+    private void Home_Clicked(object sender, EventArgs e)
+    {
+        Shell.Current.GoToAsync("//Home");
+    }
 }

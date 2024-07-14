@@ -3,12 +3,71 @@
   "WorkspaceRootPath": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\playercreation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\playercreation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\playerselection.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\playerselection.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17BFBC8-B18E-4923-B265-AD28B42B98B2}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\classlibrary\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17BFBC8-B18E-4923-B265-AD28B42B98B2}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\gameboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\gameboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\gameboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\gameboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\playercreation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\playercreation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\playerselection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\playerselection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\playercreation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\playercreation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\preselection.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\preselection.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\preselection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\preselection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17BFBC8-B18E-4923-B265-AD28B42B98B2}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\classlibrary\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17BFBC8-B18E-4923-B265-AD28B42B98B2}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17BFBC8-B18E-4923-B265-AD28B42B98B2}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\classlibrary\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17BFBC8-B18E-4923-B265-AD28B42B98B2}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17BFBC8-B18E-4923-B265-AD28B42B98B2}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\classlibrary\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17BFBC8-B18E-4923-B265-AD28B42B98B2}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17BFBC8-B18E-4923-B265-AD28B42B98B2}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A17BFBC8-B18E-4923-B265-AD28B42B98B2}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\credits.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -19,32 +78,8 @@
       "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\scoreboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\playercreation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\playercreation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\essai.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\essai.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\playerselection.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\playerselection.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\gameboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\gameboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\scoreboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,13 +88,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\credits.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\credits.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A17BFBC8-B18E-4923-B265-AD28B42B98B2}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A17BFBC8-B18E-4923-B265-AD28B42B98B2}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\chessmaui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -93,10 +121,6 @@
       "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\setting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\preselection.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\preselection.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\setting.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\setting.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -117,20 +141,8 @@
       "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\resources\\raw\\move-self.mp3||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\preselection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\preselection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessmaui\\views\\playerselection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D9B420E-286E-40BE-8257-B5743079BCE1}|ChessMAUI\\ChessMAUI.csproj|solutionrelative:chessmaui\\views\\playerselection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3EAB3747-39B2-4C8A-9AF5-A53593B97F3B}|ChessConsoleApp\\ChessConsoleApp.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\chessconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EAB3747-39B2-4C8A-9AF5-A53593B97F3B}|ChessConsoleApp\\ChessConsoleApp.csproj|solutionrelative:chessconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A17BFBC8-B18E-4923-B265-AD28B42B98B2}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\najib\\projet\\chess\\chessapp\\chessmaui\\classlibrary\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A17BFBC8-B18E-4923-B265-AD28B42B98B2}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Najib\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.40\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -153,11 +165,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Home.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Home.xaml.cs",
               "RelativeDocumentMoniker": "ChessMAUI\\Views\\Home.xaml.cs",
@@ -171,331 +183,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerCreation.xaml",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerCreation.xaml",
-              "RelativeDocumentMoniker": "ChessMAUI\\Views\\PlayerCreation.xaml",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerCreation.xaml",
-              "RelativeToolTip": "ChessMAUI\\Views\\PlayerCreation.xaml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-08T08:49:45.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Home.xaml",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Home.xaml",
-              "RelativeDocumentMoniker": "ChessMAUI\\Views\\Home.xaml",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Home.xaml",
-              "RelativeToolTip": "ChessMAUI\\Views\\Home.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-30T20:16:35.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Essai.xaml",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Essai.xaml",
-              "RelativeDocumentMoniker": "ChessMAUI\\Views\\Essai.xaml",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Essai.xaml",
-              "RelativeToolTip": "ChessMAUI\\Views\\Essai.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-10T11:38:10.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Credits.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Credits.xaml.cs",
-              "RelativeDocumentMoniker": "ChessMAUI\\Views\\Credits.xaml.cs",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Credits.xaml.cs",
-              "RelativeToolTip": "ChessMAUI\\Views\\Credits.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T21:03:19.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
-              "ViewState": "AQIAAOoAAAAAAAAAAAAswPkAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-07-10T09:59:43.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\AppShell.xaml",
-              "RelativeDocumentMoniker": "ChessMAUI\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\AppShell.xaml",
-              "RelativeToolTip": "ChessMAUI\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-30T20:17:08.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ScoreBoard.xaml",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\ScoreBoard.xaml",
-              "RelativeDocumentMoniker": "ChessMAUI\\Views\\ScoreBoard.xaml",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\ScoreBoard.xaml",
-              "RelativeToolTip": "ChessMAUI\\Views\\ScoreBoard.xaml",
-              "ViewState": "AQIAAAYAAAAAAAAAAIAwwA0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-08T08:54:13.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Credits.xaml",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Credits.xaml",
-              "RelativeDocumentMoniker": "ChessMAUI\\Views\\Credits.xaml",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Credits.xaml",
-              "RelativeToolTip": "ChessMAUI\\Views\\Credits.xaml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAD0AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-08T08:51:11.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "GameBoard.xaml",
               "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\GameBoard.xaml",
               "RelativeDocumentMoniker": "ChessMAUI\\Views\\GameBoard.xaml",
               "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\GameBoard.xaml",
               "RelativeToolTip": "ChessMAUI\\Views\\GameBoard.xaml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAABEAAAAkAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-30T20:30:20.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlayerSelection.xaml",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerSelection.xaml",
-              "RelativeDocumentMoniker": "ChessMAUI\\Views\\PlayerSelection.xaml",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerSelection.xaml",
-              "RelativeToolTip": "ChessMAUI\\Views\\PlayerSelection.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-08T08:52:03.247Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PlayerCreation.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerCreation.xaml.cs",
-              "RelativeDocumentMoniker": "ChessMAUI\\Views\\PlayerCreation.xaml.cs",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerCreation.xaml.cs",
-              "RelativeToolTip": "ChessMAUI\\Views\\PlayerCreation.xaml.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBAAAAANAAAA",
+              "Title": "PlayerSelection.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerSelection.xaml.cs",
+              "RelativeDocumentMoniker": "ChessMAUI\\Views\\PlayerSelection.xaml.cs",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerSelection.xaml.cs",
+              "RelativeToolTip": "ChessMAUI\\Views\\PlayerSelection.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T09:46:48.811Z",
+              "WhenOpened": "2024-07-08T09:53:10.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ScoreBoard.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\ScoreBoard.xaml.cs",
-              "RelativeDocumentMoniker": "ChessMAUI\\Views\\ScoreBoard.xaml.cs",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\ScoreBoard.xaml.cs",
-              "RelativeToolTip": "ChessMAUI\\Views\\ScoreBoard.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T08:47:34.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ClassLibrary.csproj",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\ClassLibrary.csproj",
-              "RelativeDocumentMoniker": "ClassLibrary\\ClassLibrary.csproj",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\ClassLibrary.csproj",
-              "RelativeToolTip": "ClassLibrary\\ClassLibrary.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-08T09:01:19.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "GameBoard.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\GameBoard.xaml.cs",
               "RelativeDocumentMoniker": "ChessMAUI\\Views\\GameBoard.xaml.cs",
               "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\GameBoard.xaml.cs",
               "RelativeToolTip": "ChessMAUI\\Views\\GameBoard.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T20:40:22.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\App.xaml",
-              "RelativeDocumentMoniker": "ChessMAUI\\App.xaml",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\App.xaml",
-              "RelativeToolTip": "ChessMAUI\\App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-30T20:30:26.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "App.g.i.cs",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeDocumentMoniker": "ChessMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeToolTip": "ChessMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAWwEoAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T10:39:55.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ChessMAUI.csproj",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\ChessMAUI.csproj",
-              "RelativeDocumentMoniker": "ChessMAUI\\ChessMAUI.csproj",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\ChessMAUI.csproj",
-              "RelativeToolTip": "ChessMAUI\\ChessMAUI.csproj",
-              "ViewState": "AQIAADoAAAAAAAAAAABBwEcAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-09T18:48:39.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "ChessMAUI\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\MauiProgram.cs",
-              "RelativeToolTip": "ChessMAUI\\MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T20:17:04.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AudioSound.cs",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Audio\\AudioSound.cs",
-              "RelativeDocumentMoniker": "ChessMAUI\\Audio\\AudioSound.cs",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Audio\\AudioSound.cs",
-              "RelativeToolTip": "ChessMAUI\\Audio\\AudioSound.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAkAAAB6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T18:55:56.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Setting.xaml",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Setting.xaml",
-              "RelativeDocumentMoniker": "ChessMAUI\\Views\\Setting.xaml",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Setting.xaml",
-              "RelativeToolTip": "ChessMAUI\\Views\\Setting.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-08T08:49:59.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\MainPage.xaml",
-              "RelativeDocumentMoniker": "ChessMAUI\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\MainPage.xaml",
-              "RelativeToolTip": "ChessMAUI\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-30T20:17:05.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Najib\\.nuget\\packages\\communitytoolkit.maui.mediaelement\\4.0.1\\ReadMe.txt",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\communitytoolkit.maui.mediaelement\\4.0.1\\ReadMe.txt",
-              "ToolTip": "C:\\Users\\Najib\\.nuget\\packages\\communitytoolkit.maui.mediaelement\\4.0.1\\ReadMe.txt",
-              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\communitytoolkit.maui.mediaelement\\4.0.1\\ReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-10T09:52:22.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Preselection.xaml",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Preselection.xaml",
-              "RelativeDocumentMoniker": "ChessMAUI\\Views\\Preselection.xaml",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Preselection.xaml",
-              "RelativeToolTip": "ChessMAUI\\Views\\Preselection.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-08T08:49:01.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Setting.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Setting.xaml.cs",
-              "RelativeDocumentMoniker": "ChessMAUI\\Views\\Setting.xaml.cs",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Setting.xaml.cs",
-              "RelativeToolTip": "ChessMAUI\\Views\\Setting.xaml.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T21:41:54.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "reglage.png - PNG [64x64, 32\u00A0bits, PNG]",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Resources\\Images\\reglage.png",
-              "RelativeDocumentMoniker": "ChessMAUI\\Resources\\Images\\reglage.png",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Resources\\Images\\reglage.png - PNG [64x64, 32\u00A0bits, PNG]",
-              "RelativeToolTip": "ChessMAUI\\Resources\\Images\\reglage.png - PNG [64x64, 32\u00A0bits, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-07-09T17:25:44.457Z",
-              "EditorCaption": " - PNG [64x64, 32\u00A0bits, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 10,
               "Title": "Preselection.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Preselection.xaml.cs",
               "RelativeDocumentMoniker": "ChessMAUI\\Views\\Preselection.xaml.cs",
@@ -508,7 +236,357 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ChessMAUI\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\AppShell.xaml",
+              "RelativeToolTip": "ChessMAUI\\AppShell.xaml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T20:17:08.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerSelection.xaml",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerSelection.xaml",
+              "RelativeDocumentMoniker": "ChessMAUI\\Views\\PlayerSelection.xaml",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerSelection.xaml",
+              "RelativeToolTip": "ChessMAUI\\Views\\PlayerSelection.xaml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T08:52:03.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Preselection.xaml",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Preselection.xaml",
+              "RelativeDocumentMoniker": "ChessMAUI\\Views\\Preselection.xaml",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Preselection.xaml",
+              "RelativeToolTip": "ChessMAUI\\Views\\Preselection.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T08:49:01.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerCreation.xaml",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerCreation.xaml",
+              "RelativeDocumentMoniker": "ChessMAUI\\Views\\PlayerCreation.xaml",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerCreation.xaml",
+              "RelativeToolTip": "ChessMAUI\\Views\\PlayerCreation.xaml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T08:49:45.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Home.xaml",
+              "RelativeDocumentMoniker": "ChessMAUI\\Views\\Home.xaml",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Home.xaml",
+              "RelativeToolTip": "ChessMAUI\\Views\\Home.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T20:16:35.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\Color.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Color.cs",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\Color.cs",
+              "RelativeToolTip": "ClassLibrary\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T13:42:52.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\Type.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Type.cs",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\Type.cs",
+              "RelativeToolTip": "ClassLibrary\\Type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T13:34:00.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\Board.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Board.cs",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\Board.cs",
+              "RelativeToolTip": "ClassLibrary\\Board.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:00:15.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerCreation.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerCreation.xaml.cs",
+              "RelativeDocumentMoniker": "ChessMAUI\\Views\\PlayerCreation.xaml.cs",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerCreation.xaml.cs",
+              "RelativeToolTip": "ChessMAUI\\Views\\PlayerCreation.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowBAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:46:48.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\Pawn.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Pawn.cs",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\Pawn.cs",
+              "RelativeToolTip": "ClassLibrary\\Pawn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T13:32:25.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClassLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\ClassLibrary.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary\\ClassLibrary.csproj",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\ClassLibrary.csproj",
+              "RelativeToolTip": "ClassLibrary\\ClassLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T09:01:19.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Essai.xaml",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Essai.xaml",
+              "RelativeDocumentMoniker": "ChessMAUI\\Views\\Essai.xaml",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Essai.xaml",
+              "RelativeToolTip": "ChessMAUI\\Views\\Essai.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T11:38:10.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Credits.xaml",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Credits.xaml",
+              "RelativeDocumentMoniker": "ChessMAUI\\Views\\Credits.xaml",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Credits.xaml",
+              "RelativeToolTip": "ChessMAUI\\Views\\Credits.xaml",
+              "ViewState": "AQIAACcAAAAAAAAAAIBJwD0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T08:51:11.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScoreBoard.xaml",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\ScoreBoard.xaml",
+              "RelativeDocumentMoniker": "ChessMAUI\\Views\\ScoreBoard.xaml",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\ScoreBoard.xaml",
+              "RelativeToolTip": "ChessMAUI\\Views\\ScoreBoard.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T08:54:13.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAswPkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-10T09:59:43.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Credits.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Credits.xaml.cs",
+              "RelativeDocumentMoniker": "ChessMAUI\\Views\\Credits.xaml.cs",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Credits.xaml.cs",
+              "RelativeToolTip": "ChessMAUI\\Views\\Credits.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:03:19.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScoreBoard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\ScoreBoard.xaml.cs",
+              "RelativeDocumentMoniker": "ChessMAUI\\Views\\ScoreBoard.xaml.cs",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\ScoreBoard.xaml.cs",
+              "RelativeToolTip": "ChessMAUI\\Views\\ScoreBoard.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:47:34.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\App.xaml",
+              "RelativeDocumentMoniker": "ChessMAUI\\App.xaml",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\App.xaml",
+              "RelativeToolTip": "ChessMAUI\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T20:30:26.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "ChessMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "ChessMAUI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAWwEoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:39:55.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChessMAUI.csproj",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\ChessMAUI.csproj",
+              "RelativeDocumentMoniker": "ChessMAUI\\ChessMAUI.csproj",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\ChessMAUI.csproj",
+              "RelativeToolTip": "ChessMAUI\\ChessMAUI.csproj",
+              "ViewState": "AQIAADgAAAAAAAAAAABRwEcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T18:48:39.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ChessMAUI\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\MauiProgram.cs",
+              "RelativeToolTip": "ChessMAUI\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:17:04.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "AudioSound.cs",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Audio\\AudioSound.cs",
+              "RelativeDocumentMoniker": "ChessMAUI\\Audio\\AudioSound.cs",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Audio\\AudioSound.cs",
+              "RelativeToolTip": "ChessMAUI\\Audio\\AudioSound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAkAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T18:55:56.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Setting.xaml",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Setting.xaml",
+              "RelativeDocumentMoniker": "ChessMAUI\\Views\\Setting.xaml",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Setting.xaml",
+              "RelativeToolTip": "ChessMAUI\\Views\\Setting.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T08:49:59.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ChessMAUI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\MainPage.xaml",
+              "RelativeToolTip": "ChessMAUI\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-30T20:17:05.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Najib\\.nuget\\packages\\communitytoolkit.maui.mediaelement\\4.0.1\\ReadMe.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\communitytoolkit.maui.mediaelement\\4.0.1\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\Najib\\.nuget\\packages\\communitytoolkit.maui.mediaelement\\4.0.1\\ReadMe.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\communitytoolkit.maui.mediaelement\\4.0.1\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-10T09:52:22.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Setting.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Setting.xaml.cs",
+              "RelativeDocumentMoniker": "ChessMAUI\\Views\\Setting.xaml.cs",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\Setting.xaml.cs",
+              "RelativeToolTip": "ChessMAUI\\Views\\Setting.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T21:41:54.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "reglage.png - PNG [64x64, 32\u00A0bits, PNG]",
+              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Resources\\Images\\reglage.png",
+              "RelativeDocumentMoniker": "ChessMAUI\\Resources\\Images\\reglage.png",
+              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Resources\\Images\\reglage.png - PNG [64x64, 32\u00A0bits, PNG]",
+              "RelativeToolTip": "ChessMAUI\\Resources\\Images\\reglage.png - PNG [64x64, 32\u00A0bits, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-07-09T17:25:44.457Z",
+              "EditorCaption": " - PNG [64x64, 32\u00A0bits, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "chess.png - PNG [360x360, 32\u00A0bits, PNG]",
               "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Resources\\Images\\chess.png",
               "RelativeDocumentMoniker": "ChessMAUI\\Resources\\Images\\chess.png",
@@ -520,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "roue.png",
               "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Resources\\Images\\roue.png",
               "RelativeDocumentMoniker": "ChessMAUI\\Resources\\Images\\roue.png",
@@ -531,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "move-self.mp3",
               "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Resources\\Raw\\move-self.mp3",
               "RelativeDocumentMoniker": "ChessMAUI\\Resources\\Raw\\move-self.mp3",
@@ -542,33 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "PlayerSelection.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerSelection.xaml.cs",
-              "RelativeDocumentMoniker": "ChessMAUI\\Views\\PlayerSelection.xaml.cs",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Views\\PlayerSelection.xaml.cs",
-              "RelativeToolTip": "ChessMAUI\\Views\\PlayerSelection.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T09:53:10.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Board.cs",
-              "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\Board.cs",
-              "RelativeDocumentMoniker": "ClassLibrary\\Board.cs",
-              "ToolTip": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ClassLibrary\\Board.cs",
-              "RelativeToolTip": "ClassLibrary\\Board.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T09:00:15.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "Microsoft.Maui.Controls.targets",
               "DocumentMoniker": "C:\\Users\\Najib\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.40\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.controls.build.tasks\\8.0.40\\buildTransitive\\netstandard2.0\\Microsoft.Maui.Controls.targets",
@@ -581,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "ChessConsoleApp\\Program.cs",
@@ -594,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "Microsoft.Maui.Resizetizer.After.targets",
               "DocumentMoniker": "C:\\Users\\Najib\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.40\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.40\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
@@ -607,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "OpenSans-Regular.ttf",
               "DocumentMoniker": "C:\\Users\\Najib\\projet\\Chess\\ChessApp\\ChessMAUI\\ChessMAUI\\Resources\\Fonts\\OpenSans-Regular.ttf",
               "RelativeDocumentMoniker": "ChessMAUI\\Resources\\Fonts\\OpenSans-Regular.ttf",
@@ -618,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "Views_Home.xaml.sg.cs",
               "DocumentMoniker": "C:\\Users\\Najib\\AppData\\Local\\Temp\\.vsdbgsrc\\5b29b920635c31e4f3a72d7b2e879f7d8dc9c089\\Views_Home.xaml.sg.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5b29b920635c31e4f3a72d7b2e879f7d8dc9c089\\Views_Home.xaml.sg.cs",
